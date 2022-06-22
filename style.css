@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, rgb(146, 186, 211), rgb(26, 52, 86));
+}
+.done {
+    text-decoration: line-through;
+  }
+
+.remove {
+    color:red
+}
+
+.enter{
+    font-family: arial;
+    color: #14396A !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #7CACDE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: 2px solid #3866A3;
+    background: #77EED6;
+    background: linear-gradient(to top, #77EED6, #468CCF);
+  }
+.enter:hover {
+    color: #14396A !important;
+    background: #468CCF;
+    background: linear-gradient(to top, #468CCF, #63B8EE);
+  }
+
